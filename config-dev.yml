@@ -1,4 +1,3 @@
-server: 
-  port: 3344
+
 config:
   info: "I'm config file"
